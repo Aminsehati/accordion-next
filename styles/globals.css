@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+body{
+  line-height: 1.5;
+  font-size: 0.875rem;
+  background: #4b145b;
+  color: hsl(209, 61%, 16%);
+}
